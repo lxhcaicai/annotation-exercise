@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/dependency-injection/build/
+/dependency-injection/build/classes/java/main/
+/.idea/
+/gradle/
+/build/
+/dependency-injection/build/classes/java/test/
