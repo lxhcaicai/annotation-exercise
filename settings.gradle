@@ -1,0 +1,3 @@
+rootProject.name = 'annotation-exercise'
+include 'dependency-injection'
+
