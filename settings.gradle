@@ -2,4 +2,5 @@ rootProject.name = 'annotation-exercise'
 include 'dependency-injection'
 include 'cache-manager'
 include 'validate'
+include 'tester'
 
